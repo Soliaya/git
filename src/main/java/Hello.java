@@ -7,5 +7,6 @@ public class Hello {
 
         System.out.println("dev");
         System.out.println("conflict mastert");
+        System.out.println("conflict dev");
     }
 }
